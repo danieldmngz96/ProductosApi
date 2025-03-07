@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\danar\\Documents\\prueba tecnica2\\BACKEND\\ProductosApi\\ProductosApi\\wwwroot\\imagenes\\3a03c22f-c6b5-4fb4-80bd-dfbb76b2f973_030a0b25b31b2cc45939688e6ecce3e6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\3a03c22f-c6b5-4fb4-80bd-dfbb76b2f973_030a0b25b31b2cc45939688e6ecce3e6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\danar\\Documents\\prueba tecnica2\\BACKEND\\ProductosApi\\ProductosApi\\wwwroot\\imagenes\\f82dad19-69ce-425c-8195-28a1ce4cb6fb_030a0b25b31b2cc45939688e6ecce3e6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\f82dad19-69ce-425c-8195-28a1ce4cb6fb_030a0b25b31b2cc45939688e6ecce3e6.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProductosApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProductosApi.props",
+      "PackagePath": "build\\ProductosApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProductosApi.props",
+      "PackagePath": "buildMultiTargeting\\ProductosApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProductosApi.props",
+      "PackagePath": "buildTransitive\\ProductosApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

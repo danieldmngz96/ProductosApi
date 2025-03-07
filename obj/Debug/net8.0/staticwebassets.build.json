@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "qYqJTrvXaEboJR32eBHsqdswUOx5RoxYxwAYmDkWFfI=",
+  "Source": "ProductosApi",
+  "BasePath": "_content/ProductosApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ProductosApi\\wwwroot",
+      "Source": "ProductosApi",
+      "ContentRoot": "C:\\Users\\danar\\Documents\\prueba tecnica2\\BACKEND\\ProductosApi\\ProductosApi\\wwwroot\\",
+      "BasePath": "_content/ProductosApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\danar\\Documents\\prueba tecnica2\\BACKEND\\ProductosApi\\ProductosApi\\wwwroot\\imagenes\\3a03c22f-c6b5-4fb4-80bd-dfbb76b2f973_030a0b25b31b2cc45939688e6ecce3e6.jpg",
+      "SourceId": "ProductosApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\danar\\Documents\\prueba tecnica2\\BACKEND\\ProductosApi\\ProductosApi\\wwwroot\\",
+      "BasePath": "_content/ProductosApi",
+      "RelativePath": "imagenes/3a03c22f-c6b5-4fb4-80bd-dfbb76b2f973_030a0b25b31b2cc45939688e6ecce3e6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\3a03c22f-c6b5-4fb4-80bd-dfbb76b2f973_030a0b25b31b2cc45939688e6ecce3e6.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\danar\\Documents\\prueba tecnica2\\BACKEND\\ProductosApi\\ProductosApi\\wwwroot\\imagenes\\f82dad19-69ce-425c-8195-28a1ce4cb6fb_030a0b25b31b2cc45939688e6ecce3e6.jpg",
+      "SourceId": "ProductosApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\danar\\Documents\\prueba tecnica2\\BACKEND\\ProductosApi\\ProductosApi\\wwwroot\\",
+      "BasePath": "_content/ProductosApi",
+      "RelativePath": "imagenes/f82dad19-69ce-425c-8195-28a1ce4cb6fb_030a0b25b31b2cc45939688e6ecce3e6.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagenes\\f82dad19-69ce-425c-8195-28a1ce4cb6fb_030a0b25b31b2cc45939688e6ecce3e6.jpg"
+    }
+  ]
+}
